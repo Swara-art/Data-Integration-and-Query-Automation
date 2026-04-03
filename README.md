@@ -71,7 +71,7 @@ db_query_tool/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/your-username/db-query-tool.git
+git clone [https://github.com/Swara-art/Data-Integration-and-Query-Automation]
 cd db-query-tool
 pip install -r requirements.txt
 ```
@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 ```bash
 # SQLite — no server needed, creates sample.db locally
-python create_sample_db.py
+python create_db.py
 
 # MongoDB — requires a running MongoDB instance
 python create_sample_mongo.py
