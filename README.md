@@ -1,6 +1,6 @@
 # 🗄️ DB Query Automation Tool
 
-> **Assignment 2 — Database Integration & Query Automation**
+> **Database Integration & Query Automation**
 > A Python CLI tool that connects to SQL and NoSQL databases, lets you browse and filter tables/collections, and exports results to CSV — zero manual querying required.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
